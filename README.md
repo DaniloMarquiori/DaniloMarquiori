@@ -2,19 +2,22 @@
 
 ```python
 class Person:
-    def __init__(self, name, age, graduation, post_graduation):
+    def __init__(self, name, age, state, city, graduation, post_graduation):
         self.name = name
         self.age = age
+        self.state = state
+        self.city = city
         self.graduation = graduation
         self.post_graduation = post_graduation
 
     def introduce(self):
         print(f"Olá, meu nome é {self.name}, tenho {self.age} anos.")
+	print(f"Moro em {self.city} - {self.state}")
         print(f"Graduado em {self.graduation} na UNIP JK SJRP.")
         print(f"Pós-Graduado em {self.post_graduation} no Senac SJRP.")
 
 # Using the class
-person = Person("Danilo Marquiori", 25, "Ciência da Computação", "Inteligencia Artificial")
+person = Person("Danilo Marquiori", 25, "SP", "Mirassol", "Ciência da Computação", "Inteligencia Artificial")
 person.introduce()
 
 ```
@@ -30,8 +33,8 @@ Na visão abaixo você encontrará meu cargo atual:
 
 **Programador Pythonr** \
 [**TOTVS**](https://www.totvs.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `AWS`, `Git`, `DynamoDB`, `Serveless`, `Cloud`,\
-<br/>
+Linguagens & Tecnologias: <img align="center" alt="Danilo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Danilo-git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><img align="center" alt="Danilo-aws" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img align="center" alt="Danilo-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg"><img align="center" alt="Danilo-jira" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg"><img align="center" alt="Danilo-linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><img align="center" alt="Danilo-pytest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg">
+
 
 ## Obrigado por visitar!
 Agradeço por ter visitado meu perfil do GitHub. Fique à vontade para explorar meus repositórios e ver meus projetos. Sinta-se à vontade para deixar uma estrela nos projetos que você achar interessante. Espero que você encontre algo útil ou inspirador por aqui!
