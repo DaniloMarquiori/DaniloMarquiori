@@ -12,11 +12,10 @@ class Person:
 
     def introduce(self):
         print(f"Olá, meu nome é {self.name}, tenho {self.age} anos.")
-	print(f"Moro em {self.city} - {self.state}")
+	print(f"Moro em {self.city} - {self.state}.")
         print(f"Graduado em {self.graduation} na UNIP JK SJRP.")
         print(f"Pós-Graduado em {self.post_graduation} no Senac SJRP.")
 
-# Using the class
 person = Person("Danilo Marquiori", 25, "SP", "Mirassol", "Ciência da Computação", "Inteligencia Artificial")
 person.introduce()
 
