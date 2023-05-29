@@ -33,12 +33,6 @@ Linguagens & Tecnologias: <img align="center" alt="Danilo-Python" height="40" wi
 
 ----
 
-## Minhas estatísticas
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilomarquiori&show_icons=true&theme=dark)
-
-----
-
 ![Snake animation](https://github.com/DaniloMarquiori/DaniloMarquiori/blob/main/workflows/github-contribution-grid-snake.svg)
 
 ----
