@@ -39,6 +39,9 @@ Linguagens & Tecnologias: <img align="center" alt="Danilo-Python" height="40" wi
 
 ----
 
+![Snake animation](https://github.com/DaniloMarquiori/DaniloMarquiori/blob/main/workflows/github-contribution-grid-snake.svg)
+
+----
 ## Obrigado por visitar!
 Agradeço por ter visitado meu perfil do GitHub. Fique à vontade para explorar meus repositórios e ver meus projetos. Sinta-se à vontade para deixar uma estrela nos projetos que você achar interessante. Espero que você encontre algo útil ou inspirador por aqui!
 
