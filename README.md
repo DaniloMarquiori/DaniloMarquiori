@@ -44,8 +44,10 @@ Agradeço por ter visitado meu perfil do GitHub. Fique à vontade para explorar 
 
 <div>
   <a href="https://www.instagram.com/danilomarquiori/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danilomarquiori/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <p align="right">
-	  <img src="https://komarev.com/ghpvc/?username=DaniloMarquiori&label=Visitors" alt="DaniloMarquiori" />
-  </p>
+  <a href="https://www.linkedin.com/in/danilomarquiori/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=DaniloMarquiori&label=Visualiza%C3%A7%C3%B5es%20de%20Perfil&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
