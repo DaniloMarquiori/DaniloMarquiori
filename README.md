@@ -16,7 +16,7 @@ class Person:
         print(f"Graduado em {self.graduation}")
         print(f"Pós-Graduado em {self.post_graduation}")
 
-person = Person("Danilo Marquiori", 25, "SP", "São José do Rio Preto", "Ciência da Computação", "Inteligencia Artificial")
+person = Person("Danilo Marquiori", 27, "SP", "São José do Rio Preto", "Ciência da Computação", "Inteligencia Artificial")
 person.introduce()
 
 ```
