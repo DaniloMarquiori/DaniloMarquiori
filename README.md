@@ -1,39 +1,26 @@
 ![Hello World !](Header.png "Hello World !")
 
 ```python
-class Person:
-    def __init__(self, name, age, state, city, graduation, post_graduation):
-        self.name = name
-        self.age = age
-        self.state = state
-        self.city = city
-        self.graduation = graduation
-        self.post_graduation = post_graduation
+class Developer:
+    def __init__(self):
+        self.name    = "Danilo Marquiori Baptista"
+        self.age     = 28
+        self.city    = "São José do Rio Preto - SP"
+        self.stack   = ["Python", "RPA", "AWS", "AI/ML"]
 
-    def introduce(self):
-        print(f"Olá, meu nome é {self.name}, tenho {self.age} anos.")
-	print(f"Moro em {self.city} - {self.state}.")
-        print(f"Graduado em {self.graduation}")
-        print(f"Pós-Graduado em {self.post_graduation}")
+    def bio(self):
+        print(f"👋 {self.name}, {self.age} anos | {self.city}")
+        print(f"🤖 Especialista em automação, RPA e cloud AWS")
+        print(f"🧠 Pós-graduado em Inteligência Artificial")
+        print(f"🚀 Stack: {' • '.join(self.stack)}")
 
-person = Person("Danilo Marquiori", 27, "SP", "São José do Rio Preto", "Ciência da Computação", "Inteligencia Artificial")
-person.introduce()
+Developer().bio()
 
 ```
 ----
 
-## Trabalho atualmente
-Na visão abaixo você encontrará meu cargo atual:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/ytc/AGIKgqNB0CQ_i8cyTiClwVw5CySwcPd9r3KP5_L4u51SkA=s900-c-k-c0x00ffffff-no-rj"/>](https://www.totvs.com/)
-<br>
-**Programador Python** \
-[**TOTVS**](https://www.totvs.com/) • Full-time \
-Linguagens & Tecnologias: <img align="center" alt="Danilo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Danilo-git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><img align="center" alt="Danilo-aws" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img align="center" alt="Danilo-jira" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg"><img align="center" alt="Danilo-linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><img align="center" alt="Danilo-pytest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg">
-
-----
-
-![Snake animation](https://github.com/DaniloMarquiori/DaniloMarquiori/blob/main/workflows/github-contribution-grid-snake.svg)
+## Linguagens & Tecnologias:
+<img align="center" alt="Danilo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Danilo-git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><img align="center" alt="Danilo-aws" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img align="center" alt="Danilo-jira" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg"><img align="center" alt="Danilo-linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><img align="center" alt="Danilo-pytest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg">
 
 ----
 ## Obrigado por visitar!
