@@ -1,28 +1,31 @@
 ![Hello World !](Header.png "Hello World !")
-
 ```python
 class Developer:
     def __init__(self):
-        self.name    = "Danilo Marquiori Baptista"
-        self.age     = 28
-        self.city    = "São José do Rio Preto - SP"
-        self.stack   = ["Python", "RPA", "AWS", "AI/ML"]
-
+        self.name     = "Danilo Marquiori"
+        self.role     = "Desenvolvedor Back-end Python"
+        self.location = "São José do Rio Preto - SP, Brasil"
+        self.focus    = ["AWS Serverless", "Integração de sistemas", "LLMs e Agentes de IA"]
+        self.stack    = ["Python", "TypeScript", "Angular", "AWS", "DynamoDB", "PostgreSQL"]
+ 
     def bio(self):
-        print(f"👋 {self.name}, {self.age} anos | {self.city}")
-        print(f"🤖 Especialista em automação, RPA e cloud AWS")
-        print(f"🧠 Pós-graduado em Inteligência Artificial")
-        print(f"🚀 Stack: {' • '.join(self.stack)}")
-
+        print(f"{self.name} | {self.role}")
+        print(f"Foco: {' • '.join(self.focus)}")
+        print(f"Graduado em Ciência da Computação e pós-graduado em Inteligência Artificial")
+        print(f"Stack: {' • '.join(self.stack)}")
+ 
 Developer().bio()
-
 ```
 ----
 
-## Linguagens & Tecnologias:
-<img align="center" alt="Danilo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Danilo-git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><img align="center" alt="Danilo-aws" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img align="center" alt="Danilo-jira" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg"><img align="center" alt="Danilo-linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><img align="center" alt="Danilo-pytest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg">
+## Linguagens e Tecnologias:
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,angular,aws,dynamodb,postgres,mongodb,mysql&theme=dark" alt="Linguagens, cloud e bancos de dados" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,jira&theme=dark" alt="Ferramentas" />
+</p>
 
-----
+
 ## Obrigado por visitar!
 Agradeço por ter visitado meu perfil do GitHub. Fique à vontade para explorar meus repositórios e ver meus projetos. Sinta-se à vontade para deixar uma estrela nos projetos que você achar interessante. Espero que você encontre algo útil ou inspirador por aqui!
 
